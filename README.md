@@ -14,3 +14,5 @@ Ex. /path/to/python /path/to/project
 # Use pip to install all requirement libraries
 
 # Make sure to edit the config file for your own API keys
+
+# Can trade any cryptocurrency - just make sure to change the symbol constants in bot.py
